@@ -1,3 +1,9 @@
+[B]1.2.6[/B]
+- add: Hungarian translation
+
+[B]1.2.6~beta[/B]
+- fix: kodi 18 compatibility
+
 [B]1.2.5[/B]
 - fix: assign cdda Audio CD from unknown to audio type
 - fix: prevent auto change immediately after change profile manually
